@@ -1,0 +1,18 @@
+{
+  "name": "restify_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.6.9",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^8.4.0",
+    "restify-errors": "^8.0.1"
+  }
+}
